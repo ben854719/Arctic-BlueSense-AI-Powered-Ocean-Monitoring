@@ -1,1 +1,3 @@
-# Arctic-BlueSense-AI-Powered-Ocean-Monitoring
+## Arctic BlueSense: AI Powered Ocean Monitoring
+
+## Objective:
