@@ -45,8 +45,10 @@ This application is an AI powered monitoring system for the Canadian Arctic Ocea
 - Supports defense, environmental, and scientific workflow.
 
 ## Key Installation:
+
 - Ensure you have the following software and frameworks installed.
 
+## Prerequisites:
 
 
 
