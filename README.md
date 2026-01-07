@@ -50,6 +50,116 @@ This application is an AI powered monitoring system for the Canadian Arctic Ocea
 
 ## Prerequisites:
 
+- Cryptography
+- Python
+- Polars
+- Pandas
+- Pytorch
+- Numpy
+- Matplotlib
+- Seaborn
+- RS256 Asymmetric Encryption
+- JSON
+- Agentic AI
+- LangGraph
+- LangChain
+- LangSmith
+- MCP Server
+- Gemini 3.0 flash
+
+## Python: Required for all major Components
+
+- Cryptography
+- Python
+- Polars
+- Pandas
+- PyTorch
+- Matplotlib
+- Numpy
+- Seaborn
+
+## RS256 Asymmetric Encryption Setup:
+
+- It is an RSA signature algorithm used with JSON Web Tokens (JWT). It uses a private key to sign data and a public key to verify it.
+
+## LangChain + LangGraph + LangSmith Version: To enable autonomous environmental agents that monitor Arctic conditions, detect anomalies, and generate transparent audit trails.
+
+- LangGraph provides the stateful orchestration layer that governs how the avatar and agents move through iterative reasoning steps.
+  
+- LangChain handles tool routing, memory, sensor interfaces, and external data integrations.
+  
+- LangSmith adds experiment tracking, evaluation, and trace visualization — ensuring every agent decision is observable, debuggable, and production‑ready.
+
+## Node: Greeting the User:
+
+- A domain‑aware introduction that orients the user to current Arctic conditions, active sensors, and available data streams.
+
+## Node: Environmental Monitoring & Anomaly Detection:
+
+- Autonomous agents continuously analyze oceanographic, atmospheric, and ice‑related signals — identifying unusual patterns, sensor drift, or emerging risks.
+
+## Node: Generating Audit Trails:
+
+- Every detection, decision, and tool call is logged into a structured audit trail.
+  
+- LangSmith captures traces, evaluations, and reasoning paths, enabling transparent review for researchers, startups, and government stakeholders.
+
+## Node: Answering Follow‑Up Questions:
+
+- The system responds with context‑aware explanations, data summaries, and recommended next steps — all backed by LangSmith‑verified reasoning traces.
+
+## Node: Fallback & Recovery Handling:
+
+- When an agent encounters missing data, sensor outages, API failures, or ambiguous user input, the fallback node ensures the system remains stable and informative rather     than breaking the workflow.
+
+## What it does:
+
+- Detects when a reasoning step fails or returns low‑confidence output.
+  
+- Routes the agent to a safe recovery path.
+  
+- Provides a clear, user‑friendly explanation.
+  
+- Attempts alternative tools, cached data, or simplified reasoning.
+  
+- Logs the failure and recovery steps into LangSmith for traceability.
+
+## Why it matters for your Arctic system:
+
+- Arctic sensors are intermittent, bandwidth‑limited, and weather‑dependent.
+  
+- Environmental data streams can drop or degrade.
+  
+- Users may ask questions outside the current data window.
+  
+- Government and research stakeholders require explainable recovery behavior.
+
+## Impact Statement:
+
+- These agents power the modular intelligence behind the platform — reducing manual data‑review time by over 60% and enabling scalable, explainable Arctic monitoring for      science, operations, and policy.
+
+## Data Referral:
+
+- Dataset Title: Mercury Concentrations in the Canadian Arctic Marine ecosystems
+
+- Links: https://open.canada.ca/data/en/dataset/d4285538-afa5-4644-931a-36d6ab6e25a1
+
+- Dataset Title: Sea ice in Canada
+
+- Links: https://open.canada.ca/data/en/dataset/8ca062f1-edef-48d8-91ac-7ff236ffd9e8
+
+- Dataset Title: Prioritizing Canada's investment in Arctic Insfractucture
+
+- Links: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/prioritizing-canadas-investment-in-arctic-infrastructure/
+
+
+
+
+
+
+
+
+
 
 
 
