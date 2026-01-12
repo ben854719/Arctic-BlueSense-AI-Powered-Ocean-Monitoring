@@ -65,7 +65,7 @@ This application is an AI powered monitoring system for the Canadian Arctic Ocea
 - LangChain
 - LangSmith
 - MCP Server
-- Gemini 3 flash
+- Gemini 2.5 flash
 
 ## Python: Required for all major Components
 
