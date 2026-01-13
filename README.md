@@ -6,6 +6,8 @@ This application is an AI powered monitoring system for the Canadian Arctic Ocea
 
 ## Video of the project:
 
+https://github.com/user-attachments/assets/e3ede2f5-1d63-4324-a96d-12abe1a8bcdf
+
 ## Features:
 
 ## High‑Performance Data Processing Engine:
