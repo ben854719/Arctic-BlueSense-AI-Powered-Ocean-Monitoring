@@ -150,7 +150,7 @@ https://github.com/user-attachments/assets/e3ede2f5-1d63-4324-a96d-12abe1a8bcdf
 
 - Links: https://open.canada.ca/data/en/dataset/8ca062f1-edef-48d8-91ac-7ff236ffd9e8
 
-- Dataset Title: Prioritizing Canada's investment in Arctic Insfractucture
+- Dataset Title: Prioritizing Canada's investment in Arctic Infrastucture
 
 - Links: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/prioritizing-canadas-investment-in-arctic-infrastructure/
 
