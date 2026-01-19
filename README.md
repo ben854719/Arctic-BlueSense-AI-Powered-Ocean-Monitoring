@@ -140,6 +140,14 @@ https://github.com/user-attachments/assets/e3ede2f5-1d63-4324-a96d-12abe1a8bcdf
 
 - These agents power the modular intelligence behind the platform — reducing manual data‑review time by over 60% and enabling scalable, explainable Arctic monitoring for      science, operations, and policy.
 
+## Community Engagement on Reddit:
+
+Description:
+
+- Arctic BlueSense — my AI-powered ocean monitoring prototype — broke into the top 5 posts on r/learnmachinelearning. 600+ views in 48 hours. Built in a weekend to showcase anomaly detection, real-time monitoring, and dual-use potential.
+
+[reddit](https://www.reddit.com/poststats/1qcwxkk)
+
 ## Data Referral:
 
 - Dataset Title: Mercury Concentrations in the Canadian Arctic Marine ecosystems
