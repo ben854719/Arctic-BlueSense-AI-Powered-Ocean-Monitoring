@@ -144,7 +144,7 @@ https://github.com/user-attachments/assets/e3ede2f5-1d63-4324-a96d-12abe1a8bcdf
 
 Description:
 
-- Arctic BlueSense — my AI-powered ocean monitoring prototype — broke into the top 5 posts on r/learnmachinelearning. 600+ views in 48 hours. Built in a weekend to showcase anomaly detection, real-time monitoring, and dual-use potential.
+- Arctic BlueSense — my AI-powered ocean monitoring prototype — broke into the top 5 posts on r/learnmachinelearning. 600+ views in 48 hours. It is to showcase anomaly detection, real-time monitoring, and dual-use potential.
 
 [reddit](https://www.reddit.com/poststats/1qcwxkk)
 
